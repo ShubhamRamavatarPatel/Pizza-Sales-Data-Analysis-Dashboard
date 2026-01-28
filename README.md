@@ -5,4 +5,19 @@ The project covers the full data analytics pipeline:
 
 Raw Data → SQL Analysis → KPI Extraction → Excel Dashboard → Business Insights
 
-<img width="939" height="604" alt="image" src="https://github.com/user-attachments/assets/ce3f4460-916c-4b4d-bd2a-371e2c8c1a97" />
+<img width="932" height="595" alt="image" src="https://github.com/user-attachments/assets/1f5594ee-650f-4a6b-9e51-3ae477dbc0bf" />
+
+This dashboard provides interactive visual insights including:
+
+📈 Monthly Revenue Trend
+
+🍕 Top Selling Pizza Types
+
+📊 Category-wise Sales Distribution
+
+📦 Orders by Pizza Size
+
+📅 Time-based Sales Analysis
+
+🧾 KPI Summary Section
+
